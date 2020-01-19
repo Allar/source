@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/go-errors/errors"
-	"github.com/go-services/code"
+	"github.com/allar/code"
 )
 
 type fileParser struct {

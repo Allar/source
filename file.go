@@ -4,7 +4,7 @@ import (
 	"go/ast"
 
 	"github.com/go-services/annotation"
-	"github.com/go-services/code"
+	"github.com/allar/code"
 )
 
 type Node interface {

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/go-services/annotation"
-	"github.com/go-services/code"
+	"github.com/allar/code"
 )
 
 type Source struct {

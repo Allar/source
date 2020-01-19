@@ -7,7 +7,7 @@ import (
 
 	"github.com/dave/jennifer/jen"
 	"github.com/go-services/annotation"
-	"github.com/go-services/code"
+	"github.com/allar/code"
 )
 
 func parseType(expr ast.Expr, imports []Import) code.Type {
